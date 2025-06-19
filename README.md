@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Features Implemented
+## Features Implemented
 
 - Peer joins via `JOINREQ` / `JOINREP` handshake.
 - SWIM-style heartbeating with failure detection.
@@ -15,16 +15,16 @@
 
 ---
 
-## 🧪 How to Run
+## How to Run
 
-### 🛠 Requirements
+### Requirements
 
 - C++11 or later
 - Linux/macOS (preferred)
 - GCC 4.7+ or Clang
 - Make
 
-### 🔄 Build & Run
+### Build & Run
 
 ```bash
 # Clone repository
